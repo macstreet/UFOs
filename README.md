@@ -12,7 +12,7 @@ Example: Enter same information as the above table in uppercase - yields an empt
 ![IMAGE2](static/images/Image2.png)
 
 Example: Enter multiple information into multiple fields
-![IMAGE3](images/Image3.png)
+![IMAGE3](static/images/Image3.png)
 
 Example: Enter data into the field that is not in the dataset yields an empty table
 ![IMAGE4](static/images/Image4.png)
